@@ -3,7 +3,7 @@
 
 ### College: Indira Gandhi Delhi Technical University for Women
 
-Link for the website:[https://this-is-aishwarya.github.io/CovidHero/index.html](https://this-is-aishwarya.github.io/CovidHero/index.html)
+Link for the website:[https://anushkajain6459.github.io/covid-hero/](https://anushkajain6459.github.io/covid-hero/)
 
 ![Corona](2.jpeg)
 
